@@ -1,1 +1,1 @@
-<script>alert(1);</script>
+<img src=1 onerror=alert(document.domain)>
