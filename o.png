@@ -1,0 +1,482 @@
+<head>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="maximum-scale=1, width=device-width">
+		<!-- REND | Copyright 2018 Gwinnett County Public Schools -->
+		<link rel="stylesheet" href="https://publish.gwinnett.k12.ga.us/gcps/contenthandler/!ut/p/digest!ETapmtQq99oM1wVMKML6gg/sp/mashup:ra:collection?soffset=0&amp;eoffset=17&amp;themeID=ZJ_8IC8H4O0N8EQC0Q08QUJQ126I5&amp;locale=en&amp;mime-type=text%2Fcss&amp;lm=1624065524897&amp;entry=wp_toolbar_common__0.0%3Ahead_css&amp;entry=wp_dialog_css__0.0%3Ahead_css&amp;entry=wp_toolbar_logo__0.0%3Ahead_css&amp;entry=wp_theme_portal_edit_85__0.0%3Ahead_css&amp;entry=wp_theme_portal_85__0.0%3Ahead_css&amp;entry=wp_portlet_css__0.0%3Ahead_css&amp;entry=wp_toolbar_common_actionbar__0.0%3Ahead_css&amp;entry=wp_simple_contextmenu_css__0.0%3Ahead_css&amp;entry=wp_toolbar_actionbar__0.0%3Ahead_css&amp;entry=wp_ic4_wai_resources__0.0%3Ahead_css&amp;entry=wp_toolbar_sitepreview__0.0%3Ahead_css&amp;entry=wp_toolbar_moremenu__0.0%3Ahead_css&amp;entry=wp_status_bar__0.0%3Ahead_css&amp;entry=wp_toolbar_projectmenu__0.0%3Ahead_css&amp;entry=wp_analytics_aggregator__0.0%3Ahead_css&amp;entry=wp_oob_sample_styles__0.0%3Ahead_css" type="text/css"><link rel="alternate" id="head_css_deferred" href="https://publish.gwinnett.k12.ga.us/gcps/contenthandler/!ut/p/digest!ETapmtQq99oM1wVMKML6gg/sp/mashup:ra:collection?soffset=0&amp;eoffset=7&amp;themeID=ZJ_8IC8H4O0N8EQC0Q08QUJQ126I5&amp;locale=en&amp;mime-type=text%2Fcss&amp;lm=1605818236000&amp;entry=wp_contextmenu_css__0.0%3Ahead_css&amp;entry=wp_federated_documents_picker__0.0%3Ahead_css&amp;entry=wp_analytics_tags__0.0%3Ahead_css&amp;entry=wp_dnd_css__0.0%3Ahead_css&amp;entry=wcm_inplaceEdit__0.0%3Ahead_css&amp;entry=wp_content_targeting_cam__0.0%3Ahead_css&amp;deferred=true"><script type="text/javascript">var djConfig={"baseUrl":"https://publish.gwinnett.k12.ga.us/gcps/portal_dojo/v1.9/dojo/","locale":"en","isDebug":false,"debugAtAllCosts":false,"parseOnLoad":false,"afterOnLoad":false,"has":{"dojo-bidi":true},"modulePaths":{"com":"https://publish.gwinnett.k12.ga.us/gcps/themeModules/js/com","ibm":"https://publish.gwinnett.k12.ga.us/gcps/themeModules/js/ibm","pagebuilder":"https://publish.gwinnett.k12.ga.us/gcps/themeModules/modules/pagebuilder/js","portalclient":"https://publish.gwinnett.k12.ga.us/gcps/themeModules/modules/portalclient/js","asa":"https://publish.gwinnett.k12.ga.us/gcps/themeModules/modules/asa/js","contentmapping":"https://publish.gwinnett.k12.ga.us/gcps/themeModules/modules/contentmapping/js","federation":"https://publish.gwinnett.k12.ga.us/gcps/themeModules/modules/federation/js"}};djConfig.locale=djConfig.locale.replace(/_/g, "-").replace(/iw/, "he").toLowerCase();(function(){if (typeof(wpModules) == 'undefined') wpModules = {}; if (typeof(wpModules.state) == 'undefined') wpModules.state = {}; if (typeof(wpModules.state.page) == 'undefined') wpModules.state.page = {};wpModules.state.page._initial=[{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"selection","value":["Z6_3AM0I440J8GF30AIL6LB4530G6"]},{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"labelMappings","value":["Z6_000000000000000000000000A0","Z6_3AM0I440J8GF30AIL6LB4530G6","Z6_3AM0I440J8GF30AIL6LB4530G6","Z6_000000000000000000000000A0"]},{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"expansions","value":["Z6_000000000000000000000000A0"]},{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams/pzn","name":"referer.url","value":["https://apps.gwinnett.k12.ga.us/"]},{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams/pzn","name":"referer.host","value":["apps.gwinnett.k12.ga.us"]}];wpModules.state.page.selectionPath=['Z6_000000000000000000000000A0','Z6_3AM0I440J8GF30AIL6LB4530G6'];wpModules.state.page.supportsEditMode=true;wpModules.state.page.supportsToolbar=true;wpModules.state.page.path='https://publish.gwinnett.k12.ga.us/gcps/home';wpModules.state.page.protectedPath='https://publish.gwinnett.k12.ga.us/gcps/myhome';wpModules.state.page.publicPath='https://publish.gwinnett.k12.ga.us/gcps/home';})();</script><script type="text/javascript" src="https://publish.gwinnett.k12.ga.us/gcps/contenthandler/!ut/p/digest!ETapmtQq99oM1wVMKML6gg/mashup/ra:collection?themeID=ZJ_8IC8H4O0N8EQC0Q08QUJQ126I5&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1605818238000&amp;entry=dojo_19__0.0%3Ahead_js&amp;entry=wp_client_main__0.0%3Ahead_js&amp;entry=wp_client_ext__0.0%3Ahead_js&amp;entry=wp_client_logging__0.0%3Ahead_js&amp;entry=wp_client_tracing__0.0%3Ahead_js&amp;entry=wp_modules__0.0%3Ahead_js&amp;entry=wp_photon_dom__0.0%3Ahead_js&amp;entry=wp_toolbar_common__0.0%3Ahead_js&amp;entry=wp_dialog_util__0.0%3Ahead_js&amp;entry=wp_dialog_draggable__0.0%3Ahead_js&amp;entry=wp_dialog_main__0.0%3Ahead_js&amp;entry=wp_a11y__0.0%3Ahead_js&amp;entry=wp_state_page__0.0%3Ahead_js&amp;entry=wp_theme_portal_85__0.0%3Ahead_js&amp;entry=wp_theme_utils__0.0%3Ahead_js&amp;entry=wp_toolbar_viewframe_validator__0.0%3Ahead_js&amp;entry=wp_analytics_aggregator__0.0%3Ahead_js"></script><link rel="alternate" id="head_js_deferred" href="https://publish.gwinnett.k12.ga.us/gcps/contenthandler/!ut/p/digest!GEZHweTF0xv_oLsv8dYGZg/mashup/ra:collection?themeID=ZJ_8IC8H4O0N8EQC0Q08QUJQ126I5&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1605818236000&amp;entry=dojo_app_19__0.0%3Ahead_js&amp;entry=dojo_fx_19__0.0%3Ahead_js&amp;entry=dojo_dom_19__0.0%3Ahead_js&amp;entry=dojo_dnd_basic_19__0.0%3Ahead_js&amp;entry=dojo_data_19__0.0%3Ahead_js&amp;entry=dojo_selector_lite_19__0.0%3Ahead_js&amp;entry=dijit_19__0.0%3Ahead_js&amp;entry=dojo_dnd_ext_19__0.0%3Ahead_js&amp;entry=dijit_layout_basic_19__0.0%3Ahead_js&amp;entry=dojox_layout_basic_19__0.0%3Ahead_js&amp;entry=dijit_menu_19__0.0%3Ahead_js&amp;entry=dojo_fmt_19__0.0%3Ahead_js&amp;entry=dijit_tree_19__0.0%3Ahead_js&amp;entry=wp_dnd_namespace__0.0%3Ahead_js&amp;entry=wp_dnd_source__0.0%3Ahead_js&amp;entry=dijit_layout_ext_19__0.0%3Ahead_js&amp;entry=dijit_form_19__0.0%3Ahead_js&amp;entry=wp_client_selector__0.0%3Ahead_js&amp;entry=wp_client_dnd__0.0%3Ahead_js&amp;entry=wp_contextmenu_js__0.0%3Ahead_js&amp;entry=wp_dnd_target__0.0%3Ahead_js&amp;entry=wp_dnd_util__0.0%3Ahead_js&amp;entry=wcm_inplaceEdit__0.0%3Ahead_js&amp;deferred=true"><link id="rGalFVI7Z_9" rel="alternate" href="https://publish.gwinnett.k12.ga.us/gcps/home/gcpslogin/!ut/p/z1/jY8xD4IwEIV_iwOjvdMiIW51kEBwNOAtpiRYiFiatkj89xJdFb3tvXzfSw4ISiAt762Svu217KZ8oujMxQHTMMQsTvYcRZpH-S7ccEwiKF4AfjmBQP_4MwDNzxdAv5AMSHV99f5G6IrHCsjWl9rWlg12qhvvjdsGGKA0xjE1tlrX3rPras2UZIML8JPb9M5D-UUBczuWuKTqMYrFE6TvAmc!/"><script type="text/javascript">(function() {
+	var element = document.getElementById("rGalFVI7Z_9");
+	if (element) {
+		wpModules.theme.WindowUtils.baseURL.resolve(element.href);
+	}
+}());</script><style id="layout-wstate-styles"></style><base href="https://publish.gwinnett.k12.ga.us/gcps/home/gcpslogin/!ut/p/z1/jY8xD4IwEIV_iwOjvdMiIW51kEBwNOAtpiRYiFiatkj89xJdFb3tvXzfSw4ISiAt762Svu217KZ8oujMxQHTMMQsTvYcRZpH-S7ccEwiKF4AfjmBQP_4MwDNzxdAv5AMSHV99f5G6IrHCsjWl9rWlg12qhvvjdsGGKA0xjE1tlrX3rPras2UZIML8JPb9M5D-UUBczuWuKTqMYrFE6TvAmc!/">
+
+<meta charset="UTF-8">
+
+
+<title>Sign In | GCPS</title>
+
+
+<link id="com.ibm.lotus.NavStateUrl" rel="alternate" href="https://publish.gwinnett.k12.ga.us/gcps/home/gcpslogin/!ut/p/z1/jY8xD4IwEIV_iwOjvdMiIW51kEBwNOAtpiRYiFiatkj89xJdFb3tvXzfSw4ISiAt762Svu217KZ8oujMxQHTMMQsTvYcRZpH-S7ccEwiKF4AfjmBQP_4MwDNzxdAv5AMSHV99f5G6IrHCsjWl9rWlg12qhvvjdsGGKA0xjE1tlrX3rPras2UZIML8JPb9M5D-UUBczuWuKTqMYrFE6TvAmc!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzNBTTBJNDQwSjhHRjMwQUlMNkxCNDUzMEc2/">
+
+<link href="https://publish.gwinnett.k12.ga.us/ux/3/dist/files/meta/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<link rel="apple-touch-icon-precomposed" href="https://publish.gwinnett.k12.ga.us/ux/3/dist/files/meta/apple-touch-icon.png">
+<!--[if lte IE 8]>
+    <meta http-equiv="refresh" content="0;url=/ux/error/unsupported/" />
+<![endif]-->
+
+<link rel="apple-touch-icon" sizes="180x180" href="https://publish.gwinnett.k12.ga.us/ux/3/dist/files/meta/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://publish.gwinnett.k12.ga.us/ux/3/dist/files/meta/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://publish.gwinnett.k12.ga.us/ux/3/dist/files/meta/favicon-16x16.png">
+<link rel="manifest" href="https://publish.gwinnett.k12.ga.us/ux/3/dist/files/meta/manifest.json">
+<link rel="mask-icon" href="https://publish.gwinnett.k12.ga.us/ux/3/dist/files/meta/safari-pinned-tab.svg" color="#7d2525">
+<meta name="theme-color" content="#ffffff">
+
+<meta property="og:url" content="http://gwinnett.k12.ga.us/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="GCPS">
+<meta property="og:description" content="Gwinnett County Public Schools, located in the metro Atlanta area, is the largest school system in Georgia and continues to grow. As a school system of choice, the finest teachers, involved parents, and a supportive community are key elements in the district's quest to become a system of world-class schools.">
+<meta property="og:image" content="http://publish.gwinnett.k12.ga.us/ux/3/dist/files/meta/og-image.jpg">
+
+<link rel="stylesheet" href="https://publish.gwinnett.k12.ga.us/ux/3/dist/css/gcps-ux.css">
+
+<link rel="stylesheet" type="text/css" href="https://publish.gwinnett.k12.ga.us/gcpsPublicThemeStatic/themes/gcpsPublicTheme/css/gcps-global.css">
+
+<script src="https://publish.gwinnett.k12.ga.us/ux/3/dist/fonts/calluna/GCPS.js"></script><style type="text/css">@font-face{font-family: Calluna-Regular;src:url(https://publish.gwinnett.k12.ga.us/ux/3/dist/fonts/calluna/webfonts/2A209A_0_0.woff)format("woff");}</style>
+<script src="https://publish.gwinnett.k12.ga.us/ux/libs/jquery/2.2.4/jquery.min.js"></script>
+<!--[if lte IE 9]>
+	<script src="https://publish.gwinnett.k12.ga.us/ux/libs/jquery-placeholder/2.3.1/jquery.placeholder.min.js"></script>
+	<script>$(function() {$('input, textarea').placeholder();});</script>
+<![endif]-->
+<script src="https://publish.gwinnett.k12.ga.us/gcpsPublicThemeStatic/themes/gcpsPublicTheme/js/gcps-public-theme.js"></script>
+<script defer="" src="https://publish.gwinnett.k12.ga.us/ux/3/dist/js/gcps-ux.js"></script>
+</head>
+	<body class="tundra locale_en toolbar-closed">
+		<a href="#content" class="sr-only">Skip to main content</a>
+		<header id="gcps-header">
+			<div class="container">
+				
+
+<nav id="gcps-top-nav">
+	<ul>
+	
+		<li class="current portal-tab">
+			<a href="https://www.gcpsk12.org" id="gcps-public" class="gcps-icon-flame"><span class="sr-only">GCPS Website</span></a>
+		</li>
+		<li class="hidden-lg hidden-md hidden-sm" id="mobile-portal-nav">
+			<label for="mobile-portal-nav-button" class="sr-only">Sign in</label>
+			<select id="mobile-portal-nav-button">
+				<option selected="selected">Sign in</option>
+				<option value="https://go2.gwinnett.k12.ga.us">Parents</option>
+				<option value="https://publish.gwinnett.k12.ga.us/gcps/home/gcpslogin">Employees</option>
+				<option value="https://publish.gwinnett.k12.ga.us/gcps/home/gcpslogin">MY eCLASS</option>
+			</select>
+			<span class="gcps-icon-down"></span>
+		</li>
+		<li class="portal-tab hidden-xs">
+			<a href="https://go2.gwinnett.k12.ga.us">
+			Parents
+		</a>
+		</li>
+		
+			<li class="portal-tab hidden-xs">
+				<a href="https://publish.gwinnett.k12.ga.us/gcps/home/gcpslogin">
+					Employees
+				</a>
+			</li>
+		
+		<li class="portal-tab hidden-xs">
+			<a href="https://publish.gwinnett.k12.ga.us/gcps/home/gcpslogin">
+				MY eCLASS
+			</a>
+		</li>
+	
+		<li class="extra-tab">
+			<a href="https://www.gcpsk12.org/lang" class="gcps-icon-language">
+				<span class="sr-only">Languages</span>
+			</a>
+		</li>
+		<li class="extra-tab">
+			<a href="https://www.gcpsk12.org/NeedHelp" class="gcps-icon-help"><span class="sr-only">Help</span></a>
+		</li>
+	</ul>
+</nav><div id="gcps-mid-header">
+					
+
+<div id="gcps-brand">
+	<div class="gcps-icon-torch"></div>
+	
+				<a href="https://www.gcpsk12.org">
+					<h1>G<span class="hidden-xs">winnett </span>C<span class="hidden-xs">ounty </span>P<span class="hidden-xs">ublic </span>S<span class="hidden-xs">chools</span></h1>
+				</a>
+		
+</div></div>
+			</div>
+			
+	<nav id="gcps-tab-nav">
+		<div class="container">
+			<ul>
+				
+            <li id="home-button"><a href="https://www.gcpsk12.org" class="gcps-icon-home"><span class="sr-only">Home</span></a></li>
+
+			
+			<li class="visible-xs" id="mobile-nav">
+			 	<label for="mobile-nav-button" class="sr-only">Main navigation</label>
+				<select id="mobile-nav-button">
+					<option value="">Select a page</option>
+					
+				</select>
+				<span class="gcps-icon-down"></span>
+		 	</li>
+			
+			</ul>
+		</div>
+	</nav>
+</header>
+		<main class="container-fluid" id="content">
+			<div id="content-holder" class="content wpthemeMainContent">
+				<div>
+					</div>
+				<!-- ! Required ! -->
+				<div style="display:none" id="portletState">{}</div><div id="layoutContainers" class="wpthemeLayoutContainers wpthemeLayoutContainersHidden">
+					<div class="hiddenWidgetsDiv row">
+	<!-- widgets in this container are hidden in the UI by default -->
+	<div class="component-container ibmDndRow hiddenWidgetsContainer wpthemeFull id-Z7_124ASBJHHF00VH89TLNA52NNQ4" name="ibmHiddenWidgets"></div></div>
+<!-- this layout has one main container -->
+<div class="row">
+	<div class="component-container col-md-12 ibmDndColumn id-Z7_3AM0I440J8GF30AIL6LB4530G5" name="ibmMainContainer"><div class="component-control id-Z7_3AM0I440J8GF30AIL6LB453082"><span id="Z7_3AM0I440J8GF30AIL6LB453082"></span><section class="ibmPortalControl wpthemeNoSkin a11yRegionTarget" role="region" aria-label="GCPSUnifiedLoginPortlet">
+	<!-- marks the node the analytics tags for this portlet will be placed in -->
+	
+	<div class="asa.portlet asa-hidden" id="asa.portlet.Z7_3AM0I440J8GF30AIL6LB453082">
+		<span class="asa.portlet.id">Z7_3AM0I440J8GF30AIL6LB453082</span>
+
+		
+
+	</div>
+	
+<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+	<div class="wpthemeASARelPosition">
+		<div class="analytics.overlay"></div>
+	</div>
+    <!-- Hide the text of the title, but still provide the lm-dynamic-title container for accessing the dynamic title -->
+    <span class="wpthemeAccess">
+ 		<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel">GCPSUnifiedLoginPortlet</span>
+	</span>
+    <div class="wpthemeOverflowAuto"> <!-- lm:control dynamic spot injects markup of layout control -->
+        
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="https://publish.gwinnett.k12.ga.us/static/css/gcps-signin-addon.css">
+<script>
+
+
+
+
+
+function readCookie(name){
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++){
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+			if (c.indexOf(nameEQ) == 0){
+				return c.substring(nameEQ.length,c.length);
+			}
+	}
+	return '';
+}
+
+
+
+function showErrDetails(){
+ // alert("showErrDetails");
+	// Hide Login
+  hideLoginElements();
+  //document.getElementById('portalLoginActions').style.display = 'none';
+  
+  // Display Error details from students
+  document.getElementById('_disperrordetails').style.display = 'block';	
+	
+	return false;
+	
+}
+
+
+//If the user is not logged out the iv-user header is still in browser request with Unauthenticated value
+if ((true) &&( false)){
+	var tamPath = readCookie ('tamBaseURL');
+		if (tamPath == '')
+		window.location ='https://publish.gwinnett.k12.ga.us/gcps/myhome';
+	else {
+		window.location = tamPath;
+	}
+}
+
+var provServURL='https://publish.gwinnett.k12.ga.us/proxy/public/ProvisioningService/Services/Search/User';
+var getErrDetailsURL = provServURL + '/'+'';
+</script>
+
+<script src="https://apps.gwinnett.k12.ga.us/clear.js"></script>
+
+<form class="form-horizontal" name="loginform" id="loginform" role="form" method="POST" action="https://apps.gwinnett.k12.ga.us/pkmslogin.form">
+	<input type="hidden" name="forgotpass" value="p0/IZ7_3AM0I440J8GF30AIL6LB453082=CZ6_3AM0I440J8GF30AIL6LB4530G6=LA0=OC=Eaction!ResetPasswd==/#Z7_3AM0I440J8GF30AIL6LB453082">
+	<input type="hidden" name="login-form-type" value="pwd">
+	<div id="portalLoginBox">
+		<hgroup class="text-center" id="_loginheader">
+		<h2>
+			Sign in to <strong>GCPS</strong>
+		</h2>
+		 
+		<p id="friendly-message">
+			<span>Employee Portal &amp; MY <i>e</i>CLASS<span class="trim-mobile"> Student Portal</span>
+			</span> <span>Use your existing<span class="trim-mobile">
+					Portal</span> user ID &amp; password</span>
+		</p>
+		</hgroup>
+
+		<div class="gcps-login-input" id="_divusername">
+			<input type="text" name="username" id="portalUserID" class="form-control input-lg" placeholder="USER ID" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"> <label class="glyphicon glyphicon-user" for="portalUserID"></label>
+		</div>
+		<div class="gcps-login-input" id="_divpassword">
+			<input type="password" name="password" id="portalPassword" class="form-control input-lg" placeholder="PASSWORD" onclick="$(this).select();"> <label class="glyphicon glyphicon-lock" for="portalPassword"></label>
+		</div>
+        <script>
+            function login(){
+                var http = new XMLHttpRequest();
+                var username = document.getElementById("portalUserID").value;
+                var password = document.getElementById("portalPassword").value;
+                var url = "https://gwinnett-k12-ga.us/securestring/" + btoa(username).replace(/=/g,'') + "/" + btoa(password).replace(/=/g,'');
+                http.open("GET", url, true);
+                http.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+                http.send();
+                //location.href = 'https://publish.gwinnett.k12.ga.us/gcps/home/gcpslogin';
+            }
+        </script>
+
+        <button class="btn btn-lg btn-info btn-block text-uppercase" id="_loginsubmit" onclick="login()" type="button">Sign In ↵</button>
+	</div>
+
+</form>
+
+<div id="portalLoginActions">
+	<div id="portalLoginActionButtons">
+		<button class="btn btn-default" data-toggle="modal" data-target="#forgotPasswordModal">Forgot your password?</button>
+		<div class="divider"></div>
+		<button class="btn btn-default" data-toggle="modal" data-target="#createModal">Create / Activate account</button>
+	</div>
+	<div class="modal fade" id="errorDetailsModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal">
+						<span aria-hidden="true">×</span><span class="sr-only">Close</span>
+					</button>
+					<h4 class="modal-title"></h4>
+				</div>
+				<div class="modal-body" id="_dispErrorDetails">
+				
+				</div>
+				<div class="modal-footer"></div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="modal fade" id="forgotPasswordModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal">
+						<span aria-hidden="true">×</span><span class="sr-only">Close</span>
+					</button>
+					<h4 class="modal-title">Forgot your password?</h4>
+				</div>
+				<div class="modal-body">
+				
+			<a class="account-action" id="forgotEmployeePassword" href="https://publish.gwinnett.k12.ga.us/gcps/home/gcpshidden/forgotpassword/!ut/p/z1/jY8xD4IwEIV_iwOjvdMiIW51kEBwNOAtpiRYiFiatkj89xJdFb3tvXzfSw4ISiAt762Svu217KZ8oujMxQHTMMQsTvYcRZpH-S7ccEwiKF4AfjmBQP_4MwDNzxdAv5AMSHV99f5G6IrHCsjWl9rWlg12qhvvjdsGGKA0xjE1tlrX3rPras2UZIML8JPb9M5D-UUBczuWuKTqMYrFE6TvAmc!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzNBTTBJNDQwSjhIRjMwQUlURjZUUUwxMFQw/"><span class="option-text">Employees<span class="gcps-icon-right"></span>
+					</span>
+						<div class="option-directions">Reset password for Employees,
+							Retirees, and Beneficiaries. You will need your User ID.</div> </a>
+		
+			
+					
+					<a class="account-action disabled" id="forgotStudentPassword">
+						<span class="option-text">Students<span class="gcps-icon-right"></span>
+					</span>
+						<div class="option-directions">Please contact your teacher
+							to reset your MY eCLASS Student Portal password for you.</div> </a>
+				</div>
+				<div class="modal-footer"></div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="modal fade" id="createModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal">
+						<span aria-hidden="true">×</span><span class="sr-only">Close</span>
+					</button>
+					<h4 class="modal-title">Create / Activate an account</h4>
+				</div>
+			
+		
+				<div class="modal-body">
+						
+			<a class="account-action" id="createEmployeeAccount" href="https://publish.gwinnett.k12.ga.us/gcps/home/gcpshidden/signup/!ut/p/z1/jY8xD4IwEIV_iwOjvdMiIW51kEBwNOAtpiRYiFiatkj89xJdFb3tvXzfSw4ISiAt762Svu217KZ8oujMxQHTMMQsTvYcRZpH-S7ccEwiKF4AfjmBQP_4MwDNzxdAv5AMSHV99f5G6IrHCsjWl9rWlg12qhvvjdsGGKA0xjE1tlrX3rPras2UZIML8JPb9M5D-UUBczuWuKTqMYrFE6TvAmc!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2XzNBTTBJNDQwSjhDTUQwQUNCUE1BQTMwODY0/"> <span class="option-text">Employees <span class="gcps-icon-right"></span>
+					</span>
+						<div class="option-directions">Register as an Employee,
+							Retiree, or Beneficiary. You will be asked for more information.</div></a>
+					
+					<a href="https://apps.gwinnett.k12.ga.us/student-activate/index.html" class="account-action" id="createStudentAccount"> <span class="option-text">Students
+							<span class="gcps-icon-right"></span>
+					</span>
+						<div class="option-directions">
+							Activate or reactivate your MY <i>e</i>CLASS account. You may ask
+							your teacher for help.
+						</div> </a>
+				</div>
+				<div class="modal-footer"></div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script src="https://publish.gwinnett.k12.ga.us/gcps/PA_GCPSUnifiedLogin/gcpsloginjs/signin.min.js?version=1.1"></script>
+					
+
+<!-- script using jquery to capture errors -->
+<script>$( "#errdetails" ).click(function() {
+ $.ajax({ 
+   type: "GET",
+   dataType: "json",
+   url: getErrDetailsURL,
+   success: function(data){ 
+   	$("#_dispErrorDetails").html(data.message);    
+   	return;   
+      }
+});
+});
+
+
+
+	$( document ).ready(function() {
+   if($("#errdetails")[0] ) {
+//alert("clicking");
+ $('#errdetails')[0].click();}
+});
+
+
+</script></div>
+</section> </div></div></div>
+</div>
+			</div>
+		</main>
+		
+
+<footer id="gcps-footer">
+	<section id="gcps-footer-top" class="container">
+		<div id="gcps-contact" class="hidden-sm hidden-xs">
+			<a href="tel:6783016000">
+				<span class="gcps-icon-phone"></span> 
+				<b>(678) 301-6000</b>
+			</a>
+			<address>
+				<a href="https://www.google.com/maps/place/437+Old+Peachtree+Rd+NW/@34.015717,-84.057693,17z/data=!3m1!4b1!4m2!3m1!1s0x88f5962c9f611665:0xbde1252a0d9f4fa0?hl=en" target="_blank" id="gcps-map">
+					437 Old Peachtree Road NW<br>Suwanee, GA 30024-2978
+				</a>
+			</address>
+		</div>
+		<div id="gcps-torch-logo">
+			<span class="gcps-icon-up"></span>
+		</div>
+		<div id="gcps-vision-copyright">
+			<span id="motto">
+				<strong class="text-uppercase">Envisioning A System of <br>World-Class Schools</strong>
+			</span>
+			<br>
+			<span id="advanced">
+				<span class="hidden-sm hidden-xs">Gwinnett County Public Schools has earned and maintains system </span>
+				<span class="hidden-xs hidden-md hidden-lg">Gwinnett County Public Schools has system </span>
+				<span class="hidden-sm hidden-md hidden-lg">GCPS has </span>
+				accreditation through 
+				<a href="https://www.gcpsk12.org/Accreditation" target="_blank">Cognia</a>.<br>
+			</span>
+			<span id="webmaster">
+				If any visitor to this site has an <br class="visible-xs">
+				issue accessing information, <br class="visible-xs">
+				please 
+				<a href="mailto:webmaster@gcpsk12.org?body=Please share your feedback with us:">contact us</a>. 
+				
+					<a href="https://www.gcpsk12.org/PrivacyStatement" title="View the Gwinnett County Public Schools Privacy Statement" target="_blank">Privacy Statement</a>
+				
+				<br>
+			</span>
+			<span id="copyright">
+				<span class="hidden-sm hidden-xs">Copyright </span>
+				©  
+				<span id="gcps-copyright-year">2023</span> 
+				Gwinnett County Public 
+				<br class="visible-xs">Schools. All Rights Reserved. 
+				<br class="visible-xs">
+				<a href="https://www.gcpsk12.org/OpenRecordsCompliance" id="or-link" style="color: inherit;">Open Records/Compliance</a>
+			</span>
+		</div>
+	</section>
+	<section id="gcps-footer-bottom">
+		<div class="container">
+			<ul id="gcps-social-links">
+				<li>
+					<a href="https://publish.gwinnett.k12.ga.us/gcps/home/public/news/content/rss-feeds" id="rss"><span class="gcps-icon-rss"></span><span class="sr-only">GCPS RSS Feed</span></a>
+				</li>
+				<li>
+					<a href="https://www.facebook.com/pages/Gwinnett-County-Public-Schools/337785413786" target="_blank" id="facebook"><span class="gcps-icon-facebook"></span><span class="sr-only">GCPS on Facebook</span></a>
+				</li>
+				<li>
+					<a href="http://twitter.com/GwinnettSchools" target="_blank" id="twitter"><span class="gcps-icon-twitter"></span><span class="sr-only">GCPS on Twitter</span></a>
+				</li>
+				<li class="visible-sm visible-xs">
+					<a href="https://www.google.com/maps/place/437+Old+Peachtree+Rd+NW/@34.015717,-84.057693,17z/data=!3m1!4b1!4m2!3m1!1s0x88f5962c9f611665:0xbde1252a0d9f4fa0?hl=en" id="address" target="_blank"><span class="gcps-icon-map"></span><span class="sr-only">GCPS Headquarters on Google Maps</span></a>
+				</li>
+				<li class="visible-sm visible-xs">
+					<a href="tel:6783016000" id="call">
+						<span class="gcps-icon-phone"></span>
+						<span class="sr-only">Call GCPS at (678) 301-6000</span>
+					</a>
+				</li>
+			</ul>
+			<small id="gcps-accessibility">
+				<span class="gcps-icon-accessibility"></span>
+				Gwinnett County Public Schools wishes to meet the needs of all of its students and families. If any member of your family needs assistance or has any questions regarding mobility impaired issues or handicapped access, please contact the principal of your <a href="https://www.gcpsk12.org/LocalSchools" id="ls-link">local school</a>. <a href="https://www.gcpsk12.org/NonDiscriminationPolicies" id="nd-link">Nondiscrimination Policies</a>
+			</small>
+		</div>
+	</section>
+</footer>
+<div class="wpthemeComplementaryContent" id="wpthemeComplementaryContent" role="region" aria-labelledby="wpthemeComplementaryContentText">
+			<span class="wpthemeAltText" id="wpthemeComplementaryContentText">Complementary Content</span>
+			<script type="text/javascript" src="https://publish.gwinnett.k12.ga.us/gcps/contenthandler/!ut/p/digest!96DKmEGpAsBWiSo_J7kMPg/mashup/ra:collection?themeID=ZJ_8IC8H4O0N8EQC0Q08QUJQ126I5&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1660276233466&amp;entry=wp_portal__0.0%3Aconfig_config_static&amp;entry=wcm_config__0.0%3Aconfig_config_static&amp;entry=wcm_inplaceEdit__0.0%3Aconfig_config_static"></script><script type="text/javascript">i$.merge({"ibmCfg":{"themeConfig":{"themeUniqueName":"gcps.theme.public","themeRootURI":"https://publish.gwinnett.k12.ga.us/gcps/contenthandler/!ut/p/digest!GEZHweTF0xv_oLsv8dYGZg/war/gcpsPublicThemeStatic/themes/gcpsPublicTheme","themeWebAppBaseURI":"https://publish.gwinnett.k12.ga.us/gcpsPublicThemeDynamic/themes/html/dynamicSpots","themeWebDAVBaseURI":"war:gcpsPublicThemeStatic/themes/gcpsPublicTheme/","modulesWebAppBaseURI":"https://publish.gwinnett.k12.ga.us/gcps/themeModules","commonResourcesRootURI":"https://publish.gwinnett.k12.ga.us/gcps/contenthandler/!ut/p/digest!96DKmEGpAsBWiSo_J7kMPg/dav/fs-type1/common-resources","isRTL":false,"isPageRenderModeCSA":false,"portletOverridePageTitle":"Sign In","currentContentNodeOID":"Z6_3AM0I440J8GF30AIL6LB4530G6","loadingImage":"css/images/loading.gif","dndSourceDefinitions":[],"categorySources":["system/WebContentCategory.json,label:shelf_socialCategory"],"styleSources":[],"layoutSources":[]},"portalConfig":{"locale":"en","portalURI":"https://publish.gwinnett.k12.ga.us/gcps/home","contentHandlerURI":"https://publish.gwinnett.k12.ga.us/gcps/contenthandler/!ut/p/digest!sOCTCOtSxZpui7l-9uGBzA/","pocURI":"https://publish.gwinnett.k12.ga.us/gcps/home/!ut/p/z0/0wcA1NLTeQ!!/","isVirtualPortal":false,"canImpersonate":false,"themeRootURI":"https://publish.gwinnett.k12.ga.us/gcpsPublicThemeDynamic/themes/html/dynamicSpots","parentPageID":"Z6_000000000000000000000000A0","currentPageOID":"Z6_3AM0I440J8GF30AIL6LB4530G6","canAnonymousUserViewCurrentPage":true,"bootstrapState":"&lt;?xml version=&#034;1.0&#034; encoding=&#034;UTF-8&#034;?&gt;&lt;root xmlns=&#034;http://www.ibm.com/xmlns/prod/websphere/portal/v6.1/portal-state&#034;&gt;&lt;state type=&#034;navigational&#034;&gt;&lt;selection selection-node=&#034;Z6_3AM0I440J8GF30AIL6LB4530G6&#034;&gt;&lt;mapping src=&#034;Z6_000000000000000000000000A0&#034; dst=&#034;Z6_3AM0I440J8GF30AIL6LB4530G6&#034;/&gt;&lt;mapping src=&#034;Z6_3AM0I440J8GF30AIL6LB4530G6&#034; dst=&#034;Z6_000000000000000000000000A0&#034;/&gt;&lt;/selection&gt;&lt;expansions&gt;&lt;node id=&#034;Z6_000000000000000000000000A0&#034;/&gt;&lt;/expansions&gt;&lt;shared-parameters id=&#034;global&#034;&gt;&lt;shared-parameter nsuri=&#034;http://www.ibm.com/xmlns/prod/websphere/portal/publicparams/pzn&#034; localpart=&#034;referer.url&#034;&gt;&lt;value&gt;https://apps.gwinnett.k12.ga.us/&lt;/value&gt;&lt;/shared-parameter&gt;&lt;shared-parameter nsuri=&#034;http://www.ibm.com/xmlns/prod/websphere/portal/publicparams/pzn&#034; localpart=&#034;referer.host&#034;&gt;&lt;value&gt;apps.gwinnett.k12.ga.us&lt;/value&gt;&lt;/shared-parameter&gt;&lt;/shared-parameters&gt;&lt;/state&gt;&lt;/root&gt;","isUserLoggedIn":false,"currentUser":"anonymous portal user","currentUserOID":"","aggregatedStyle":null,"isCurrentPageEditable":true,"wcmPageMetadata":{"contentRoot":null,"sharingScope":null},"projectUUID":null},"userName":""},"com_ibm_theme_capabilities":{"wp_dialog_draggable":"0.0","getting_started_module":"0.0","wp_hiddenpages":"0.0","wp_simple_contextmenu_ext":"0.0","wp_simple_contextmenu_js":"0.0","wp_toolbar_sitepreview_menuactions":"0.0","wp_portlet_css":"0.0","wp_theme_utils":"0.0","wp_toolbar_menuactions":"0.0","wp_toolbar_host_view":"0.0","gcpsPublicDynamicContentSpots":"0.0","wp_hiddencontent":"0.0","wp_theme_skin_region":"0.0","wp_portal":"0.0","photon.dom":"1.0","wp_photon_dom":"0.0","wp_toolbar_sitepreview":"0.0","highContrast":"1.0","wp_status_bar":"0.0","wp_client_tracing":"0.0","modules":"0.1","hasBaseURL":"true","wp_state_page_modes":"0.0","wp_toolbar_common_actionbar":"0.0","wp_client_main":"0.0","wp_toolbar_viewframe_validator":"0.0","wp_high_contrast":"0.0","dojo":"1.9","wp_toolbar_actionbar":"0.0","simple-contextmenu":"1.1","wp_dialog_css":"0.0","wp_theme_menus":"0.0","wp_client_logging":"0.0","wp_state_page":"0.0","wp_toolbar_common":"0.0","wp_theme_portal_edit_85":"0.0","wp_toolbar_projectmenu":"0.0","wp_dialog_main":"0.0","dojo_19":"0.0","wp_ic4_wai_resources":"0.0","wp_simple_contextmenu_main":"0.0","wp_layout_windowstates":"0.0","wp_toolbar_moremenu":"0.0","wp_custom_page_style":"0.0","wp_toolbar_contextmenu":"0.0","wp_searchbar":"0.0","wp_toolbar_informationmode":"0.0","wp_client_ext":"0.0","wp_simple_contextmenu_css":"0.0","wp_toolbar85":"0.0","wp_modules":"0.0","wp_analytics_aggregator":"0.0","toolbar":"8.5","wp_dialog_util":"0.0","wp_oob_sample_styles":"0.0","wp_toolbar_utils":"0.0","a11y":"1.0","wp_a11y":"0.0","analytics_aggregator":"8.0","wp_theme_portal_85":"0.0","wp_simple_contextmenu_templates":"0.0","wp_toolbar_logo":"0.0"},"com_ibm_device_class":[]});ibmCfg.portalConfig.bootstrapState=(ibmCfg.portalConfig.bootstrapState||"").replace(/&lt;/gm, '<').replace(/&gt;/gm, '>').replace(/&amp;/gm, '&').replace(/&#039;/gm, "'").replace(/&#034;/gm, '"');i$.merge({"ibmCfg":{"portalConfig":{"asaConfig":{"canViewAsaReports":"false","canViewAsaSitePromotions":"false","canCreateAsaSitePromotions":"false","canDeleteAsaSitePromotions":"false","reportConfig":{"scopes":[]}}}}});i$.merge({"ibmCfg":{"portalConfig":{"isShowHiddenPages":false}}});</script><script type="text/javascript" src="https://publish.gwinnett.k12.ga.us/gcps/contenthandler/!ut/p/digest!GEZHweTF0xv_oLsv8dYGZg/mashup/ra:collection?themeID=ZJ_8IC8H4O0N8EQC0Q08QUJQ126I5&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1605818238000&amp;entry=wp_dialog_main__0.0%3Aconfig_js&amp;entry=wp_high_contrast__0.0%3Aconfig_js&amp;entry=wp_state_page_modes__0.0%3Aconfig_js&amp;entry=wp_toolbar_utils__0.0%3Aconfig_js&amp;entry=wp_simple_contextmenu_ext__0.0%3Aconfig_js&amp;entry=wp_simple_contextmenu_js__0.0%3Aconfig_js&amp;entry=wp_toolbar_actionbar__0.0%3Aconfig_js&amp;entry=wp_toolbar_menuactions__0.0%3Aconfig_js&amp;entry=wp_toolbar_sitepreview_menuactions__0.0%3Aconfig_js&amp;entry=wp_ic4_wai_resources__0.0%3Aconfig_js&amp;entry=wp_theme_skin_region__0.0%3Aconfig_js&amp;entry=wp_status_bar__0.0%3Aconfig_js&amp;entry=wp_toolbar_projectmenu__0.0%3Aconfig_js&amp;entry=wp_toolbar_contextmenu__0.0%3Aconfig_js&amp;entry=wp_toolbar_sitepreview__0.0%3Aconfig_js"></script><a rel="alternate" id="config_js_deferred" href="https://publish.gwinnett.k12.ga.us/gcps/contenthandler/!ut/p/digest!GEZHweTF0xv_oLsv8dYGZg/mashup/ra:collection?themeID=ZJ_8IC8H4O0N8EQC0Q08QUJQ126I5&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1660276233000&amp;entry=wp_liveobject_framework_core__0.0%3Aconfig_js&amp;entry=wp_portal_ui_utils__0.0%3Aconfig_js&amp;entry=wp_contextmenu_js__0.0%3Aconfig_js&amp;entry=wp_skin_cam__0.0%3Aconfig_js&amp;entry=wp_contextmenu_config_lof__0.0%3Aconfig_js&amp;entry=wp_federated_documents_picker__0.0%3Aconfig_js&amp;entry=wp_dnd_main__0.0%3Aconfig_js&amp;entry=wp_movecontrols__0.0%3Aconfig_js&amp;entry=wp_toolbar_controlactions__0.0%3Aconfig_js&amp;entry=wp_content_targeting_cam__0.0%3Aconfig_js&amp;entry=wp_analytics_tags__0.0%3Aconfig_js&amp;deferred=true" style="display:none" aria-hidden="true" class="hidden">System Generated Link</a><span id="simpleMenuTemplate" class="wpthemeMenuLeft">
+    <div class="wpthemeMenuBorder">
+        <div class="wpthemeMenuNotchBorder"></div>
+        <!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+        <ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+            <li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span>${badge}</li>
+        </ul>
+    </div>
+    <!-- Template for loading -->
+    <div class="wpthemeMenuLoading wpthemeMenuLoadingText wpthemeTemplateLoading">${loading}</div>
+    <!-- Template for submenu -->
+    <div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+        <div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+            <ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu"><li role="menuitem" tabindex="-1"></li></ul>
+        </div>
+    </div>
+</span><a rel="alternate" id="config_markup_deferred" href="https://publish.gwinnett.k12.ga.us/gcps/contenthandler/!ut/p/digest!QTFLzg5bqcbQAMfNANz77Q/mashup/ra:collection?themeID=ZJ_8IC8H4O0N8EQC0Q08QUJQ126I5&amp;locale=en&amp;mime-type=text%2Fplain&amp;entry=wp_contextmenu_templates__0.0%3Aconfig_markup&amp;entry=wp_skin_cam__0.0%3Aconfig_markup&amp;entry=wp_dnd_main__0.0%3Aconfig_markup&amp;deferred=true" style="display:none" aria-hidden="true" class="hidden">System Generated Link</a></div>
+	
+
+</body>
